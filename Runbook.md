@@ -1,7 +1,7 @@
 # &quot;Primitive Bank&quot; Application.
 
 #Environment Required
-- Java 1.8+
+- Java 1.8
 - Maven 3.5.5+
 
 ##Steps TO Run Applications
